@@ -1,6 +1,7 @@
 /** @type {import('tailwindcss').Config} */
+
 module.exports = {
-  content: ['index.html', './portfolio/Stunting-Dash.html'],
+  content: ['index.html', 'Stunting-Dash.html'],
   theme: {
     container: {
       center: true,
